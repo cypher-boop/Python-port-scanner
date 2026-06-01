@@ -17,7 +17,7 @@ Python 3.x
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/python-port-scanner.git
+git clone https://github.com/cyber-boop/python-port-scanner.git
 
 Move into the project folder:
 
